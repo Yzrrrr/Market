@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="profile-container">
+    <h2>{{ current_user.username }}'s Profile</h2>
+    <img src="{{ url_for('static', filename='images/' ~ current_user.image_file) }}" alt="Avatar" class="profile-avatar">
+    <p>Email: {{ current_user.email }}</p>
+    <a href="{{ url_for('main.account') }}" class="btn btn-primary">Update Profile</a>
+</div>
+{% endblock %}
