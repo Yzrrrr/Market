@@ -1,0 +1,468 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:18] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:20] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:20] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:21] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:25] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:25] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:13:53] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:13:53] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:13:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:51] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:19:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:36] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:38] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:38] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:39] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:43] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:43] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:49] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:49] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:52] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:52] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:52] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:55] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:55] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:56] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:23] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:27] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:27] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:27] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:28] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:28] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:39] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:39] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:41] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:42] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:52] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:52] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:52] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:52] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:52] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:27:53] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:09] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:15] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:19] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:20] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:20] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:20] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:20] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:20] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:21] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:21] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:21] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:21] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:24] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:25] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:25] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:25] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:25] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:25] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:25] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:26] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:26] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:26] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:30] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:30] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:30] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:30] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:30] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:30] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:31] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:31] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:31] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:32] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:32] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:32] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:32] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:32] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:32] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:35] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:35] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:35] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:35] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:35] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:35] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:36] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:36] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:36] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:37] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:37] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:37] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:37] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:37] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:37] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:38] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:40] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:40] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:40] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:40] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:41] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:41] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:41] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:41] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:42] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:42] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:42] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:42] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:42] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:43] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:43] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:45] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:45] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:46] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:46] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:51] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:51] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:51] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:52] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:52] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:52] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:52] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:52] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:31:53] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:32:14] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:32:14] "GET /login?next=/logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:32:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:32:15] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:32:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:32:23] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:35:33] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:35:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:35:37] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:35:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:35:41] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:35:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:35:42] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:35:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:13] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:13] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:15] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:29] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:29] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:29] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:29] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:29] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:29] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:51] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:54] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:38:54] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:39:08] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:39:11] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:39:11] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:39:11] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:39:11] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:39:11] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:44:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:44:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:44:18] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:44:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:44:32] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:44:32] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:44:32] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:44:32] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:44:32] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:44:33] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:14] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:14] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:15] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:16] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:26] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:26] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:26] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:26] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:26] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:46:27] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:02] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+ERROR:root:IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: user.username
+[SQL: INSERT INTO user (username, email, password, image_file, stocks) VALUES (?, ?, ?, ?, ?)]
+[parameters: ('2022112535', '2022112535@stu.hit.edu.cn', '$2b$12$COcxD/6RE9QlD2VU8CmEverlGmJ4z26crPsX/x8HQ//iA8LgioO/G', '123.JPG', 'AAPL，TSLA')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:11] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:11] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:25] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:25] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:31] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:31] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:31] "GET /static/images/123.JPG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:43] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:43] "[36mGET /static/images/123.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:47] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:47] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:47] "[36mGET /static/images/123.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:49] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:56] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:51:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+DEBUG:root:Image saved to /Users/yizeren/market_manipulation_detection/app/static/images/123.JPG
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:08] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:08] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:17] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:17] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:17] "GET /static/images/123.JPG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:19] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:19] "[36mGET /static/images/123.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:24] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:52:24] "[36mGET /static/images/123.JPG HTTP/1.1[0m" 304 -

@@ -1,0 +1,125 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:18] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:20] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:20] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:21] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:25] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:25] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:11:25] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:13:53] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:13:53] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:13:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:51] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:18:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:19:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:36] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:38] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:38] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:39] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:43] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:43] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:49] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:49] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:52] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:52] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:52] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:55] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:55] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:56] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:20:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/yizeren/market_manipulation_detection/app/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 403-212-260
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:23] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:27] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:27] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:27] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:28] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 15:24:28] "[33mGET /static/images/123.JPG HTTP/1.1[0m" 404 -
