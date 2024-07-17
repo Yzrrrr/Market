@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="account-container">
+    <h2>Update Your Account</h2>
+    <form method="POST" enctype="multipart/form-data">
+        {{ form.hidden_tag() }}
+        <div class="form-group">
+            <label for="username">Username</label>
+            {{ form.username(class="form-control") }}
+        </div>
+        <div class="form-group">
+            <label for="email">Email</label>
+            {{ form.email(class="form-control") }}
+        </div>
+        <div class="form-group">
+            <label for="picture">Update Profile Picture</label>
+            {{ form.picture(class="form-control-file") }}
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+</div>
+{% endblock %}

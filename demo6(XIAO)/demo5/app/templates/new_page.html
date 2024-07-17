@@ -1,0 +1,39 @@
+﻿{% extends "base.html" %}
+
+{% block title %}Investment Recommendation{% endblock %}
+
+{% block content %}
+<h1>Investment Recommendation</h1>
+<p>Enter the stock tickers you hold and your risk score to get a recommended investment portfolio.</p>
+
+<form method="POST" action="{{ url_for('main.new_page') }}">
+    <div class="form-group">
+        <label for="tickers">Stock Tickers (comma separated):</label>
+        <input type="text" class="form-control" id="tickers" name="tickers" required>
+    </div>
+    <div class="form-group">
+        <label for="score">Risk Score (0-100):</label>
+        <div class="input-group">
+            <input type="number" class="form-control" id="score" name="score" min="0" max="100" required>
+            <div class="input-group-append">
+                <a href="https://www.calcxml.com/calculators/inv08?skn=#results" target="_blank" class="btn btn-secondary">Calculate Risk Score</a>
+            </div>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+{% if portfolio_weights %}
+    <h2>Recommended Portfolio Weights</h2>
+    <p>{{ explanation }}</p>
+    <ul>
+        {% for ticker, weight in portfolio_weights.items() %}
+            <li>{{ ticker }}: {{ weight }}%</li>
+        {% endfor %}
+    </ul>
+    <img src="{{ url_for('static', filename='images/' ~ image_filename) }}" alt="Portfolio Weights" style="width: 500px; height: 500px;">
+{% endif %}
+
+{% endblock %}
+
+
